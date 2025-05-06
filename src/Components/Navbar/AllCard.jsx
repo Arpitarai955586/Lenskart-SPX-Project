@@ -1754,11 +1754,11 @@ const AllCard = () => {
   <Link to="/toddlers" style={{ textDecoration: "none" }}>
     <div style={{
       width: "100px",
-      height: "100px",
+      height: "120px",
       flex: "0 0 auto",
       cursor: "pointer"
     }}>
-      <img src="https://static5.lenskart.com/media/uploads/Toddlers.gif" alt="" style={{
+      <img src="https://static5.lenskart.com/media/uploads/home-stylefinder-women-all-4dec.png" alt="" style={{
         width: "100%",
         height: "100%",
         objectFit: "cover"
@@ -1769,11 +1769,11 @@ const AllCard = () => {
   <Link to="/juniors" style={{ textDecoration: "none" }}>
     <div style={{
       width: "100px",
-      height: "100px",
+      height: "110px",
       flex: "0 0 auto",
       cursor: "pointer"
     }}>
-      <img src="https://static5.lenskart.com/media/uploads/Juniors.gif" alt="" style={{
+      <img src="https://static5.lenskart.com/media/uploads/home-stylefinder-women-glam-220425.png" alt="" style={{
         width: "100%",
         height: "100%",
         objectFit: "cover"
@@ -1784,11 +1784,11 @@ const AllCard = () => {
   <Link to="/toddlers" style={{ textDecoration: "none" }}>
     <div style={{
       width: "100px",
-      height: "100px",
+      height: "110px",
       flex: "0 0 auto",
       cursor: "pointer"
     }}>
-      <img src="https://static5.lenskart.com/media/uploads/Toddlers.gif" alt="" style={{
+      <img src="https://static5.lenskart.com/media/uploads/home-stylefinder-women-glam-220425.png" alt="" style={{
         width: "100%",
         height: "100%",
         objectFit: "cover"
@@ -1799,11 +1799,11 @@ const AllCard = () => {
   <Link to="/juniors" style={{ textDecoration: "none" }}>
     <div style={{
       width: "100px",
-      height: "100px",
+      height: "110px",
       flex: "0 0 auto",
       cursor: "pointer"
     }}>
-      <img src="https://static5.lenskart.com/media/uploads/Juniors.gif" alt="" style={{
+      <img src="https://static5.lenskart.com/media/uploads/home-stylefinder-women-glam-220425.png" alt="" style={{
         width: "100%",
         height: "100%",
         objectFit: "cover"
@@ -2209,6 +2209,7 @@ const AllCard = () => {
      </div>
      
    </Box>
+   
    <Box style={{backgroundColor:"skyblue ",weight:"100%",Height:"500px"}}>
    
    <div style={{ width: '100%' ,border:"1px solid black" ,marginTop:"20px"  }}>
@@ -2395,6 +2396,7 @@ const AllCard = () => {
            ))}
          </Carousel>
        </div>
+       
      </div>
      
    </Box>
