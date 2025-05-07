@@ -43,7 +43,8 @@
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
+    "server": "json-server --watch backend/db.json --port 3001"
   },
   "eslintConfig": {
     "extends": [
@@ -64,6 +65,7 @@
     ]
   },
   "devDependencies": {
+    "json-server": "^1.0.0-beta.3",
     "tailwindcss": "^3.2.7"
   }
 }

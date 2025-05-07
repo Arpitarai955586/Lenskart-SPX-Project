@@ -93,7 +93,7 @@ const CustomCard = () => {
                       width: "100%",
                       backgroundColor: "#fff",
                       borderRadius: "16px",
-                    //   boxShadow: "0 4px 8px rgba(0,0,0,0.9)",
+                   
                       overflow: "hidden",
                       transition: "transform 0.3s ease",
                     }}
